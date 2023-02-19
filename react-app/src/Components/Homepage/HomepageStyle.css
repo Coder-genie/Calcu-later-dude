@@ -1,0 +1,23 @@
+.logo-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    size: 30px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.card {
+    width: 18rem;
+    height: 15rem;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: rgb(61, 134, 177);
+    border-color: inherit;
+}
